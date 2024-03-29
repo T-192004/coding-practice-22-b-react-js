@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.blog-list-item {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0px 10px 0px;
+  padding: 20px;
+  box-shadow: 0px 0px 2px 0px #9aa5b1;
+}
+.item-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.item-title {
+  color: #12022f;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+.item-description {
+  color: #616e7c;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}

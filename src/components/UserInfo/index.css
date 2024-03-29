@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.user-info-container {
+  width: 200px;
+  padding: 20px;
+  text-align: center;
+}
+.user-info-img{
+    width: 120px;
+    height: 120px;
+    margin: 5px 0px 5px 0px;
+}
+.user-name{
+  color: #12022f;
+  font-size: 24px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.user-profession{
+  color: #616e7c;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
